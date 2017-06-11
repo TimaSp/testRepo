@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mac/Works/react/HanAPp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/mac/Works/react/HanAPp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/mac/Works/react/HanAPp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/mac/Works/react/HanAPp/node_modules/react-native/React/Modules/RCTDevMenu.h
